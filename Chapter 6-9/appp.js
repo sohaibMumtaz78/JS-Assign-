@@ -52,17 +52,17 @@
 //     }
 
 //Q5
-// var sub1 = prompt("Enter First subject name");
-//     sub2 = prompt("Enter Second subject name");
-//     sub3 = prompt("Enter Third  subject name");
-//     sub1marks = +prompt("Enter " + sub1 + " marks"); 
-//     sub2marks = +prompt("Enter " + sub2 + " marks");
-//     sub3marks = +prompt("Enter " + sub3 + " marks");
-//     totalmarks = 100;
-//     document.write("Subject "+" Obtain "+ "Total " +" Per </br>")
-//     document.write(sub1 + "  " + sub1marks + "  " + totalmarks + "  " + (sub1marks*100)/totalmarks +"%</br>")
-//     document.write(sub2 + "  " + sub2marks + "  " + totalmarks + "  " + (sub2marks*100)/totalmarks +"%</br>")
-//     document.write(sub3 + "  " + sub3marks + "  " + totalmarks + "  " + (sub3marks*100)/totalmarks +"%</br>")
+var sub1 = prompt("Enter First subject name");
+    sub2 = prompt("Enter Second subject name");
+    sub3 = prompt("Enter Third  subject name");
+    sub1marks = +prompt("Enter " + sub1 + " marks"); 
+    sub2marks = +prompt("Enter " + sub2 + " marks");
+    sub3marks = +prompt("Enter " + sub3 + " marks");
+    totalmarks = 100;
+    document.write("Subject "+" Obtain "+ "Total " +" Per </br>")
+    document.write(sub1 + "  " + sub1marks + "  " + totalmarks + "  " + (sub1marks*100)/totalmarks +"%</br>")
+    document.write(sub2 + "  " + sub2marks + "  " + totalmarks + "  " + (sub2marks*100)/totalmarks +"%</br>")
+    document.write(sub3 + "  " + sub3marks + "  " + totalmarks + "  " + (sub3marks*100)/totalmarks +"%</br>")
 
 
 
